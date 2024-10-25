@@ -1,0 +1,18 @@
+100 Days of Machine Learning: Recap of Day 1-5
+Day 1: Python Review
+
+Reviewed Python basics including variables, data types, control flow, functions, and OOP.
+Used NumPy for array operations and Matplotlib for simple plots.
+Day 2: NumPy
+
+Created arrays, performed element-wise operations, array slicing, and indexing.
+Day 3: Pandas
+
+Created DataFrames, handled missing data, and performed filtering and selection.
+Day 4: Matplotlib & Seaborn
+
+Data visualization using line plots, bar plots, histograms, scatter plots, and box plots.
+Day 5: Data Preprocessing
+
+Handled missing data, scaled features, encoded categorical variables, and split datasets.
+
